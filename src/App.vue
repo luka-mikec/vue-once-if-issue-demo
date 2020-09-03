@@ -5,6 +5,9 @@
     >
       a
     </div>
+    <div v-else v-once>
+      b
+    </div>
   </div>
 </template>
 
